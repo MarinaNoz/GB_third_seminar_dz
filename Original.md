@@ -21,6 +21,7 @@ ___
 >> 7. git checkout master - вернуться к актуальному состоянию и продолжить работу
 >> 8. git diff - увидеть разницу между текущим файлом и закоммиченным файлом
 
+~~Добавила ссылку на конспект в Notion~~
 
 !{Notion}(https://buttered-sage-49b.notion.site/bbcddaa9581d42af9e6f33cdc5f7a328)
 
